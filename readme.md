@@ -15,7 +15,7 @@
     <br />
     <strong>Batch RMT 020</strong>
     <br />
-    <a href="https://github.com/burjoawl/tes_final_proyek">Dashboard Projek</a>
+    <a href="https://huggingface.co/spaces/burjoawl/H8-TalentFairV7-ProsperLoanDataset">Deployment Projek</a>
   </p>
 </div>
 
