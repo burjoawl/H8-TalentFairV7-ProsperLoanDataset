@@ -34,6 +34,17 @@ Projek ini membahas tentang prediksi nasabah yang akan membayar pinjaman atau ti
 <b><h1>Kesimpulan</b></h1>
 </div>
 
+Berdasarkan EDA dapat dilihat bahwa:
+- Nasabah pada dataset ini banyak yang masih berjalan dalam peminjaman, dan banyak juga yang sudah lunas
+- Status pekerjaan Full Time tidak mempengaruhi apakah nasabah akan melunasi pinjaman atau tidak
+- Pekerjaan Other dan Professional sama sama memiliki urutan 2 terbesar dalam hal melunasi atau tidaknya pinjaman, pekerjaan other tidak ada penjabaran.
+
+Berdasarkan pemodelan dapat dilihat bahwa:
+* Sebanyak 6912 nasabah yang diprediksi layak dapat pinjaman dan aktualnya layak, dan sebanyak 2821 nasabah yang diprediksi tidak layak dapat pinjaman dan aktualnya tidak layak.
+* Sebanyak 542 nasabah yang diprediksi layak tetapi aktualnya tidak layak.
+* Sebanyak 695 nasabah yang diprediksi tidak layak tetapi aktualnya layak, ini merupakan kondisi yang harus diperhatikan.
+* Model ini tergolong overfit karena nilai akurasi pada train dan test yang memiliki gap yang lumayan jauh
+* Nasabah dengan cluster 0 merupakan nasabah yang bertanggung jawab, karena seberapa besar nilai hutangnya tetap dibayar lunas, sedangkan pada cluster 1 merupakan nasabah perlu diperhatikan, karena semakin tinggi nilai pinjamannya akan semakin besar uang perusahaan yang hilang, untuk cluster 2 sama saeperti cluster 1, tetapi pada cluster 2 semakin tinggi angka pinjamannnya, maka nilai yang hilang akan semakin lebih besar juga
 
 <!-- Akhir Kata -->
 <div align="Center">
