@@ -1,0 +1,1 @@
+["ProsperRating", "ListingCategory", "BorrowerState", "Occupation", "EmploymentStatus", "IsBorrowerHomeowner", "CurrentlyInGroup", "IncomeVerifiable", "LoanOriginationQuarter", "kategori_nasabah_payment"]

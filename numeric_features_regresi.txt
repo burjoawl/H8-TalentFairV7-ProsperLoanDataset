@@ -1,0 +1,1 @@
+["BorrowerRate", "EstimatedEffectiveYield", "EstimatedLoss", "EstimatedReturn", "ProsperScore", "LoanCurrentDaysDelinquent", "LoanFirstDefaultedCycleNumber", "LoanOriginalAmount", "LP_CustomerPrincipalPayments", "LP_GrossPrincipalLoss", "Investors"]
