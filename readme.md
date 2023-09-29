@@ -5,7 +5,7 @@
     <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/322/original/Logo_Hacktiv8.jpg" alt="Hacktiv8">
   </a>
 
-  <h2 align="center">Judul baris 1</h2>
+  <h2 align="center">Prosper Loan</h2>
 
   <p align="center">
     <strong>Dibuat oleh:</strong>
